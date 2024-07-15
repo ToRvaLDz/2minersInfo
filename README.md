@@ -27,6 +27,7 @@ Supported coins are as follows:
 - Monero (xmr)
 - Zcash (zec)
 - Flux (zel)
+- Kaspa (kas)
 
 
 ## Things you should know about 2minersInfo
